@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Delaney aka MinhoPotato
 - 👀 I’m interested in Video Games and Software Engineering
-- 🌱 I’m currently learning C++ and C#
-- 💞️ I’m looking to collaborate on Anything and everything!
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: via emails 
 
 <!---
